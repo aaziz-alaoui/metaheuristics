@@ -1,3 +1,5 @@
+import numpy as np
+
 n_boulders = 150
 boulders = np.random.uniform(0., 1., (n_boulders, 3))
 boulders[:, 2] = 1 / (3 ** np.random.choice(range(2, 4), (n_boulders)))
