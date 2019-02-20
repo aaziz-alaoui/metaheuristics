@@ -7,7 +7,7 @@ conda install git
 
 To download the materials:
 ```sh
-git clone https://github.com/xoolive/edu_metaheuristics
+git clone https://github.com/letstrythat/metaheuristics
 ```
 
 Before opening the notebooks:
